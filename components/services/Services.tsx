@@ -1,21 +1,21 @@
 const services = [
   {
-    title: "Premium Haircut",
-    description: "Modern cuts tailored to your style.",
+    title: "Hair Design",
+    description: "Precision cuts and styling tailored to your personality.",
   },
   {
-    title: "Beard Grooming",
-    description: "Precision beard shaping and detailing.",
+    title: "Beauty Studio",
+    description: "Professional beauty and grooming services for everyone.",
   },
   {
-    title: "Hair Styling",
-    description: "Professional styling for every occasion.",
+    title: "Color & Treatment",
+    description: "Expert coloring and nourishing treatments for healthy, beautiful hair.",
   },
 ];
 
 export default function Services() {
   return (
-    <section className="mx-auto max-w-7xl px-6 py-24">
+    <section id="services" className="mx-auto max-w-7xl px-6 py-24">
       <div className="mb-12 text-center">
         <p className="text-sm uppercase tracking-[0.3em] text-yellow-400">
           Services

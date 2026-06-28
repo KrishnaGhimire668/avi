@@ -2,7 +2,7 @@ const images = Array.from({ length: 6 });
 
 export default function Gallery() {
   return (
-    <section className="mx-auto max-w-7xl px-6 py-24">
+    <section id="gallery" className="mx-auto max-w-7xl px-6 py-24">
       <div className="mb-12 text-center">
         <p className="text-sm uppercase tracking-[0.3em] text-yellow-400">
           Gallery
