@@ -15,7 +15,7 @@ export default function Contact() {
       <div className="mt-10 space-y-3 text-gray-400">
         <p>📍 Kathmandu, Nepal</p>
         <p>📞 +977-9761134619</p>
-        <p>✉️ basnetaavash52@gmail.com</p>
+        <p>✉️ basnetaavash89@gmail.com</p>
       </div>
     </section>
   );
